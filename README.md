@@ -10,4 +10,4 @@ Cloud Storage is a full-stack Java web application that provides users with a se
 - Notes:
   - upload, edit, and delete notes.
 - Credential Management:
-  - Safely store and manage sensitive credentials, such as usernames and passwords, for quick access.
+  - Safely store and manage sensitive credentials, such as URLs, usernames, and passwords, for quick access.
